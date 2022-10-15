@@ -1,0 +1,1 @@
+Async functions for SurrealDB for synchronous scripts. Just a modified example file from the SurrealDB python library.
